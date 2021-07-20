@@ -17,7 +17,7 @@ jobs:
             label: 'linux'
             package: 'deb'
             icon: 'icon-ili2db-128x128.png'
-            asset_prefix: 'ili2gpkg-'
+            asset_prefix: 'ili2gpkg_'
             asset_suffix: '-1_amd64'
           - os: 'macos-10.15'
             label: 'mac'
