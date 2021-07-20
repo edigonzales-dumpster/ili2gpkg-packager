@@ -2,7 +2,7 @@ name: CI/CD
 on:
   push:
     branches:
-     - 'master'
+     - 'main'
 
 env:
   VERSION: 4.5.0
